@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**twalidaziz/twalidaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on a project for managing business inventory using Java.
 - 🌱 I’m currently learning text analytics using python.
 - 💬 Ask me about software development related topics.
